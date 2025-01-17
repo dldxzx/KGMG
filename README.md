@@ -29,7 +29,10 @@ KGMG: a structure-aware diffusion model for Molecule Generation based on K-Neare
 ## Training
 
 ### 1. Data
-All the raw and processed data are stored in the data folder, making them easily accessible for subsequent analysis and use.
+
+```bash
+Due to the large size of the original  data, they cannot be uploaded to the GitHub repository. We have uploaded them to Baidu Cloud, and the link is [Baidu Cloud](https://pan.baidu.com/s/1pRLzNBG0mtszmcan5jnsZQ) with the extraction code: v9eb.
+```
 
 ### 2. Train from scratch 
 
